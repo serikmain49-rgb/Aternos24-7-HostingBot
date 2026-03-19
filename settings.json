@@ -1,13 +1,13 @@
 {
-  "name": "AFK Bot",
+  "name": "BotFrutline",
   "bot-account": {
     "username": "imgonnacream",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "7L_SMP_is_real.aternos.me",
-    "port": 62213,
+    "ip": "SMP-FRUTLINE.aternos.me",
+    "port": 29506,
     "version": "",
     "try-creative": false
   },
